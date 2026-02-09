@@ -50,7 +50,7 @@ yarn add ful1e5/cbmp
 >Enter the repo
 
 ```
-cd ~Public/AppleX-cursors/apple-cursor-svg
+cd ~Public/AppleX-cursors/
 ```
 
 ---
