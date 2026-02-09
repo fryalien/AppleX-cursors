@@ -1,0 +1,34 @@
+{
+  "Sample 1": {
+    "dir": "svg",
+    "out": "out/sample1"
+  },
+
+  "Sample 2": {
+    "use": "puppeteer",
+    "dir": "svg",
+    "out": "out/sample2",
+    "fps": 30
+  },
+
+  "Sample 3": {
+    "dir": "svg",
+    "out": "out/sample3",
+    "colors": [
+      { "match": "#00FF00", "replace": "#FFFFFF" },
+      { "match": "#0000FF", "replace": "#000000" }
+    ]
+  },
+
+  "Sample 4": {
+    "use": "puppeteer",
+    "dir": "svg",
+    "out": "out/sample4",
+    "fps": 60,
+    "colors": [
+      { "match": "#00FF00", "replace": "#FFF000" },
+      { "match": "#0000FF", "replace": "#000000" },
+      { "match": "#FF0000", "replace": "#FFF000" }
+    ]
+  }
+}
