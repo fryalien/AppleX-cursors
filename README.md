@@ -39,6 +39,14 @@ sudo npm install -g npm@11.9.0
 ```
 
 ```
+npm install puppeteer@latest 
+```
+
+```
+npm install glob@latest
+```
+
+```
 npm install ful1e5/cbmp
 ```
 
@@ -50,7 +58,7 @@ yarn add ful1e5/cbmp
 >Enter the repo
 
 ```
-cd ~Public/AppleX-cursors/
+cd ~/Public/AppleX-cursors/
 ```
 
 ---
